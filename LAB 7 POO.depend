@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1700761228 source:c:\users\student\desktop\324aa\lab 7\lab 7 poo\main.cpp
+	"Soldat.h"
+
+1700761768 source:c:\users\student\desktop\324aa\lab 7\lab 7 poo\arma.cpp
+	"Arma.h"
+
+1700762754 source:c:\users\student\desktop\324aa\lab 7\lab 7 poo\soldat.cpp
+	"Soldat.h"
+
+1700762574 source:c:\users\student\desktop\324aa\lab 7\lab 7 poo\soldat_vrajitor.cpp
+	"Soldat_Vrajitor.h"
+
+1700761839 source:c:\users\student\desktop\324aa\lab 7\lab 7 poo\vrajitor.cpp
+	"Vrajitor.h"
+
+1700761673 source:c:\users\student\desktop\324aa\lab 7\lab 7 poo\baza.cpp
+	"Baza.h"
+
+1700763256 c:\users\student\desktop\324aa\lab 7\lab 7 poo\baza.h
+	<iostream>
+	<string.h>
+
+1700761785 c:\users\student\desktop\324aa\lab 7\lab 7 poo\arma.h
+	"Baza.h"
+
+1700761665 c:\users\student\desktop\324aa\lab 7\lab 7 poo\soldat.h
+	"Arma.h"
+
+1700761855 c:\users\student\desktop\324aa\lab 7\lab 7 poo\vrajitor.h
+	"Soldat.h"
+
+1700762574 c:\users\student\desktop\324aa\lab 7\lab 7 poo\soldat_vrajitor.h
+	"Vrajitor.h"
+	"Soldat.h"
+
